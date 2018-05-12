@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '2762'
     url: http://www.gutenberg.org/2009/agents/2762
 description: Variously attributed to Still, Bridges, or Stevenson.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37503#Gammer-Gurton-s-Needle
 gutenberg_issued: '2011-09-22'
 gutenberg_type: Text
 identifiers:
