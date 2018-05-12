@@ -1,0 +1,47 @@
+_repo: Gammer-Gurton-s-Needle_37503
+_version: 0.1.0
+contributor:
+  dubious_authors:
+  - agent_name: Still, John
+    deathdate: 1608
+    gutenberg_agent_id: '38886'
+    url: http://www.gutenberg.org/2009/agents/38886
+  - agent_name: Stevenson, William
+    deathdate: 1575
+    gutenberg_agent_id: '38729'
+    url: http://www.gutenberg.org/2009/agents/38729
+  - agent_name: Bridges, John
+    aliases:
+    - Bridges, Iohn
+    - Brydges, John
+    deathdate: 1618
+    gutenberg_agent_id: '43927'
+    url: http://www.gutenberg.org/2009/agents/43927
+covers:
+- cover_type: archival
+  image_path: 37503-h/images/i_cover.png
+creator:
+  editor:
+    agent_name: Farmer, John Stephen
+    aliases:
+    - Farmer, J. S. (John Stephen)
+    - Farmer, John S.
+    birthdate: 1854
+    deathdate: 1916
+    gutenberg_agent_id: '2762'
+    url: http://www.gutenberg.org/2009/agents/2762
+description: Variously attributed to Still, Bridges, or Stevenson.
+gutenberg_issued: '2011-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcc 'PR'
+title: Gammer Gurton's Needle
+url: http://www.gutenberg.org/ebooks/37503
